@@ -1,7 +1,7 @@
 ## Hi, I'm Sergei 
 
 Junior Android Developer focused on modern Android development with Kotlin.
-<img src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="15" style="vertical-align: middle;" />
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 I enjoy building well-structured Android applications using modern Jetpack libraries and clean architecture principles. 
 
