@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi, I'm Sergei 👋
 
-<!--
-**MuneCat9/MuneCat9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Android Developer focused on modern Android development with Kotlin.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Kotlin
+- Jetpack Compose
+- Clean Architecture
+- MVVM
+- Hilt
+- Room
+- Retrofit
+- Coroutines
+- Flow
+- Navigation Compose
+- DataStore
+- WorkManager
+- Coil
+- Git
+
+I also used to work with:
+- Java
+- XML
+- RxJava
+- Glide
