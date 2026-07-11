@@ -18,17 +18,15 @@ I enjoy building well-structured Android applications using modern Jetpack libra
 
 ## 🚀 Featured Project
 
-**Pokémon Autobattler**
+[📦**Pokémon Autobattler**](https://github.com/MuneCat9/pokemon-autobattler)
 
-A modern Android application inspired by the Pokémon universe.
+Modern Android application featuring Pokémon-inspired auto-battler mechanics.
 
 ✔ Browse Pokémon
 
 ✔ Build your own team
 
 ✔ Simulate turn-based battles
-
-→ [📦 Repository](https://github.com/MuneCat9/pokemon-autobattler)
 
 ## 📫 Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melascat)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mune-cat-695a49412/)
