@@ -31,10 +31,8 @@ I enjoy building well-structured Android applications using modern Jetpack libra
 - Git
 - Coil
 
-<a href="https://t.me" target="_blank">
-  <img src="https://shields.io" alt="Telegram"/>
-</a>
-    
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melascat)
+
 <a href="https://www.linkedin.com/in/mune-cat-695a49412/?skipRedirect=true" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
