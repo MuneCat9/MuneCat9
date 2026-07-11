@@ -18,7 +18,7 @@ I enjoy building well-structured Android applications using modern Jetpack libra
 
 ## 🚀 Featured Project
 
-Pokémon Autobattler
+**Pokémon Autobattler**
 
 A modern Android application inspired by the Pokémon universe.
 
