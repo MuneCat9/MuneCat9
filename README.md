@@ -6,20 +6,20 @@ I enjoy building well-structured Android applications using modern Jetpack libra
 
 ## 🛠 Tech Stack
 
-**Android**
-Kotlin • Compose • Material3 • Navigation Compose
+**Android:**
+ Kotlin • Compose • Material3 • Navigation Compose
 
-**Architecture**
-Clean Architecture • MVVM • Hilt
+**Architecture:**
+ Clean Architecture • MVVM • Hilt
 
-**Data**
-Room • Retrofit • DataStore
+**Data:**
+ Room • Retrofit • DataStore
 
-**Concurrency**
-Coroutines • Flow
+**Concurrency:**
+ Coroutines • Flow
 
-**Tools**
-Git • Coil
+**Tools:**
+ Git • Coil
 
 
 ## 📫 Contact
