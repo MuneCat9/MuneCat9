@@ -1,4 +1,4 @@
-## Hi, I'm Sergei 👋
+## Hi, I'm Sergei 
 
 Junior Android Developer focused on modern Android development with Kotlin.
 
