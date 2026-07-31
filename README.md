@@ -6,15 +6,15 @@ I enjoy building well-structured Android applications with a focus on clean arch
 
 ## 🛠 Tech Stack
 
-**Android:** → Kotlin • Jetpack Compose • Material 3 • Navigation Compose
+**Android:** • Kotlin • Jetpack Compose • Material 3 • Navigation Compose
 
-**Architecture:** → Clean Architecture • MVVM • Hilt
+**Architecture:** • Clean Architecture • MVVM • Hilt
 
-**Data:** → Room • Retrofit • DataStore
+**Data:** • Room • Retrofit • DataStore
 
-**Concurrency:** → Coroutines • Flow
+**Concurrency:** • Coroutines • Flow
 
-**Tools & Libs:** → Git • Coil • MockK
+**Tools & Libs:** • Git • Coil • MockK
 
 ## 🚀 Featured Project
 
