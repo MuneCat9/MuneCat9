@@ -4,7 +4,7 @@ Android Developer focused on modern Android development with Kotlin.
 
 I enjoy building well-structured Android applications with a focus on clean architecture, modern Jetpack libraries and maintainable code. 
 
-## 🛠 Tech Stack
+## My Tech Stack
 
 **Android:** • Kotlin • Jetpack Compose • Material 3 • Navigation Compose
 
@@ -16,9 +16,9 @@ I enjoy building well-structured Android applications with a focus on clean arch
 
 **Tools & Libs:** • Git • Coil • MockK
 
-## 🚀 Featured Project
+## Featured Project
 
-[📦**Pokémon Autobattler**](https://github.com/MuneCat9/pokemon-autobattler)
+[**Pokémon Autobattler**](https://github.com/MuneCat9/pokemon-autobattler)
 
 A modern Android application featuring Pokémon-inspired auto-battler mechanics.
 
@@ -28,6 +28,6 @@ A modern Android application featuring Pokémon-inspired auto-battler mechanics.
 
 ✔ Simulate turn-based battles
 
-## 📫 Contact
+## Contact
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/melascat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mune-cat-695a49412/)
 
