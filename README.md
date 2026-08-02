@@ -18,11 +18,11 @@ I enjoy building well-structured Android applications with a focus on clean arch
 
 ## Featured Project
 
-[**Pokémon Autobattler**](https://github.com/MuneCat9/pokemon-autobattler)
+[**Pokemon Autobattler**](https://github.com/MuneCat9/pokemon-autobattler)
 
-A modern Android application featuring Pokémon-inspired auto-battler mechanics.
+A modern Android application featuring Pokemon-inspired auto-battler mechanics.
 
-✔ Browse Pokémon
+✔ Browse Pokemon
 
 ✔ Build your own team
 
